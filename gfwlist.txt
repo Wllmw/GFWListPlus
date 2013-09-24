@@ -1,4 +1,5 @@
-! Last Modified: Fri, 15 Sep 2013 14:24:35 +0800
+! GFWList Plus 
+! Last Modified: Fri, 24 Sep 2013 15:03:35 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -244,6 +245,7 @@ beijingspring.com
 ||bjzc.org
 ||blackra1n.com
 ||blog.de
+||blogcity.me
 ||blogearth.org
 ||blingblingsquad.net
 .blinkx.com
@@ -495,7 +497,6 @@ wiki.cnitter.com
 .cnn.com/video
 news.cnyes.com
 ||cochina.org
-.code1984.com/64
 comefromchina.com
 ||comefromchina.com
 ||conoyo.com
@@ -566,12 +567,11 @@ dalianmeng.org
 daxa.cn
 ||daxa.cn
 cn.dayabook.com
-.daylife.com/topic/dalai_lama
+.daylife.com
+||daylife.com
 .ddc.com.tw
 ||de-sci.org
 .de-sci.org
-lists.debian.org
-packages.debian.org/zh-cn/lenny/gpass
 ||delcamp.net
 delicious.com/GFWbookmark
 .democrats.org
@@ -719,10 +719,10 @@ eyevio.jp
 !--------------------FF--------------------
 .facebook.com
 ||facebook.com
-||faiththedog.info
 /^https?:\/\/[^\/]+facebook\.com/
 ||facebook.net
 ||facesofnyfw.com
+||faiththedog.info
 .fakku.net
 ||falunart.org
 ||falundafa.org
@@ -844,9 +844,9 @@ kineox.free.fr
 ||freeweibo.com
 .freexinwen.com
 ||friendfeed.com
-||friendfeed-media.com\
+||friendfeed-media.com
 ||ff.im
-||freerk.com/
+||freerk.com
 ||freevpn.nl
 .fring.com
 ||fring.com
@@ -966,22 +966,12 @@ kineox.free.fr
 .gzm.tv
 ||gzone-anime.info
 
-!----------------Google----------------
-||googleapis.com
-||googlecode.com
-||googlegroups.com
-||googlepages.com
-||googleusercontent.com
-||google-analytics.com
-||goo.gl
-
 !------------Google App Engine/Appspot-------
 .appspot.com
 ||appspot.com
 /^https?:\/\/[^\/]+appspot\.com/
 
 !-------------Google ghs-----
-||ggpht.com
 ||gstatic.com
 ||chromium.org
 ||chinaaid.net
@@ -995,7 +985,7 @@ kineox.free.fr
 
 !-------------Google.other-----
 .googlevideo.com
-
+||goo.gl
 ||gospelherald.com
 ||gospelherald.com
 ||graylog2.org
@@ -1029,7 +1019,7 @@ kineox.free.fr
 .hellotxt.com
 ||hellotxt.com
 ||hjclub.info
-||htxt.it/
+||htxt.it
 ||hellouk.org
 .helpeachpeople.com
 ||helpeachpeople.com
@@ -1364,6 +1354,7 @@ listorious.com
 liuxiaotong.com
 ||liuxiaotong.com
 ||liu.lu
+||liveleak.com
 .livestation.com
 livestream.com
 ||livestream.com
@@ -1541,7 +1532,7 @@ mrtweet.com
 ||my903.com
 ||myactimes.com
 ||myaudiocast.com
-.myav.com.tw/bbs
+myav.com.tw/bbs
 ||mychat.to
 .mychinamyhome.com
 ||mychinamyhome.com
@@ -1995,10 +1986,10 @@ referer.us
 ||sacom.hk
 ||sacom.hk
 .saiq.me
-||saiq.me/
+||saiq.me
 .salvation.org.hk
 ||salvation.org.hk
-.samair.ru/proxy/type-01
+||samair.ru
 ||sammyjs.org
 ||sandnoble.com
 ||sankaizok.com
@@ -2121,7 +2112,7 @@ share.skype.com
 ||so-news.com
 .so-news.com
 ||so-net.net.tw
-||soc.mil/
+||soc.mil
 ||sockslist.net
 .sod.co.jp
 .softether.org
@@ -2132,7 +2123,7 @@ sohcradio.com
 ||somee.com
 ||sorting-algorithms.com
 .soumo.info
-||soup.io/
+||soup.io
 .slinkset.com
 ||slickvpn.com
 .snaptu.com
@@ -2550,7 +2541,7 @@ twitiq.com
 ||twitiq.com
 .twitlonger.com
 ||twitlonger.com
-||tl.gd/
+||tl.gd
 twitoaster.com
 ||twitoaster.com
 ||twitonmsn.com
