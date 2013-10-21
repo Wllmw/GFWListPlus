@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 24 Sep 2013 15:03:35 +0800
+! Last Modified: Fri, 21 Oct 2013 17:40:06 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -13,6 +13,7 @@
 ||rdio.com
 .spotify.com
 ||spotify.com
+/^https?:\/\/[^\/]+slacker\.com/
 ||turntable.fm
 ||vevo.com
 
@@ -1212,6 +1213,7 @@ inxian.com
 ||isohunt.com
 ||israbox.com
 ||istef.info
+||istockphoto.com
 ||isunaffairs.com
 ||isuntv.com
 itaboo.info
@@ -2231,6 +2233,7 @@ tagwalk.com
 .taolun.info
 ||taolun.info
 ||taragana.com
+||target.com
 .taweet.com
 ||taweet.com
 ||tbpic.info
