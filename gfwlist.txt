@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 21 Oct 2013 17:40:06 +0800
+! Last Modified: Fri, 31 Oct 2013 15:01:26 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -62,7 +62,7 @@ taiwannation.50webs.com
 ||666kb.com
 ||6park.com
 ||6park.com
-||www.6v6dota.com
+||6v6dota.com
 ||7capture.com
 ||881903.com
 ||888.com
@@ -99,7 +99,7 @@ taiwannation.50webs.com
 .aiweiweiblog.com
 ||aiweiweiblog.com
 ||ajaxplorer.info
-||www.ajsands.com
+||ajsands.com
 ||akamaihd.net
 ||akiba-online.com
 ||alasbarricadas.org
@@ -670,6 +670,7 @@ hkjp.easyweb.hk
 ||edubridge.com
 ||eevpn.com
 ||efcc.org.hk
+||efksoft.com
 ||eic-av.com
 ||electionsmeter.com
 ||elementaryos.org
@@ -910,6 +911,7 @@ kineox.free.fr
 ||getjetso.com
 ||getiton.com
 .getsocialscope.com
+||getyouram.com
 ||gfw.org.ua
 .ggssl.com
 ||ggssl.com
@@ -1019,6 +1021,7 @@ kineox.free.fr
 ||helloqueer.com
 .hellotxt.com
 ||hellotxt.com
+||hiitch.com
 ||hjclub.info
 ||htxt.it
 ||hellouk.org
@@ -1051,7 +1054,6 @@ kineox.free.fr
 ||tomayko.com
 ||twt.fm
 ||views.fm
-
 ||heqinglian.net
 ||here4news.com
 ||heungkongdiscuss.com
@@ -1341,7 +1343,7 @@ letscorp.net
 .linkideo.com
 ||api.linksalpha.com
 ||apidocs.linksalpha.com
-||www.linksalpha.com
+||linksalpha.com
 ||help.linksalpha.com
 ||linux-engineer.net
 ||linuxconfig.org
@@ -1479,6 +1481,7 @@ minghui.org
 .mingpaotor.com
 .mingpaovan.com
 .mininova.org
+||minus.com
 .minzhuhua.net
 ||minzhuhua.net
 ||minzhuzhongguo.org
@@ -1512,7 +1515,7 @@ minghui.org
 ||morningsun.org
 ||movabletype.com
 ||moviefap.com
-||www.moztw.org
+||moztw.org
 ||mp3ye.eu
 ||mpettis.com
 ||mpfinance.com
@@ -1684,7 +1687,7 @@ openvpn.net
 my.opera.com/dahema
 ||demo.opera-mini.net
 ||opnir.com
-www.orchidbbs.com
+||orchidbbs.com
 ||orient-doll.com
 orientaldaily.com.my
 ||orientaldaily.com.my
@@ -1841,7 +1844,7 @@ popyard.com
 ||sogrady.me
 ||vatn.org
 ||veempiire.com
-||www.vegorpedersen.com
+||vegorpedersen.com
 ||ventureswell.com
 ||webfee.tk
 ||whereiswerner.com
@@ -1896,14 +1899,12 @@ privatetunnel.com
 ||qoos.com
 ||qoos.com
 ||qooza.hk
-||efksoft.com
+||qq.co.za
 ||qstatus.com
 ||qtweeter.com
 ||qtrac.eu
 !--quadedge
 ||quadedge.com
-||www.getyouram.com
-||hiitch.com
 ||qusi8.net
 .qvodzy.org
 ||qx.net
@@ -2610,7 +2611,7 @@ twittertim.es
 ||typepad.com
 ||blog.expofutures.com
 ||legaltech.law.com
-||www.loiclemeur.com
+||loiclemeur.com
 ||latimesblogs.latimes.com
 ||blog.palm.com
 ||seesmic.com
@@ -2740,7 +2741,7 @@ lists.w3.org/archives/public
 ||waiwaier.com
 ||wallornot.org
 ||wallpapercasa.com
-||www.wan-press.org
+||wan-press.org
 ||wanderinghorse.net
 ||wangafu.net
 ||wangjinbo.org
@@ -2766,6 +2767,7 @@ lists.w3.org/archives/public
 ||weeewooo.net
 .weekmag.info
 .wefong.com
+||weiboleak.com
 ||weijingsheng.org
 .weiming.info
 ||weiquanwang.org
@@ -2816,6 +2818,7 @@ westca.com
 ||winwhispers.info
 ||wiredbytes.com
 ||wiredpen.com
+||wireshark.org
 .wisevid.com
 ||wisevid.com
 .witopia.net
@@ -3140,4 +3143,5 @@ gov.tw
 !-----Whitelist-----
 @@nike.com
 @@nikeplus.com
+@@||qq.com
 !----------------EOF----------------
