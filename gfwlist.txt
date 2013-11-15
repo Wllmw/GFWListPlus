@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 31 Oct 2013 15:01:26 +0800
+! Last Modified: Fri, 15 Nov 2013 16:30:05 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -371,6 +371,7 @@ catholic.org.tw
 ||cdig.info
 cdjp.org
 ||cdjp.org
+cdn.sstatic.net
 .cdnews.com.tw
 cdp1998.org
 ||cdp1998.org
@@ -552,7 +553,8 @@ dadazim.com
 ||dafagood.com
 .dailidaili.com
 ||dailidaili.com
-.dailymotion.com
+dailymotion.com
+||dailymotion.com
 .dajiyuan.com
 .dajiyuan.eu
 ||dalailama.ru
@@ -1635,6 +1637,7 @@ nobodycanstop.us
 ||nsc.gov.tw
 ||ntdtv.co
 ||ntdtv.com
+/^https?:\/\/[^\/]+\.ntdtv\.com\:/
 ||ntdtv.ca
 ||ntdtv.org
 ||ntdtv.ru
@@ -1958,6 +1961,7 @@ referer.us
 ||riku.me
 .rlwlw.com
 ||rlwlw.com
+.rnw.nl
 ||rnw.nl
 ||robtex.com
 ||robustnessiskey.com
@@ -2479,7 +2483,7 @@ tube8.com
 ||tv.com
 ||tv-intros.com
 ||tvants.com
-forum.tvb.com
+||tvb.com
 ||tvboxnow.com
 ||tvider.com
 ||tvunetworks.com
@@ -2576,6 +2580,7 @@ twitter.com
 ||twttr.com
 /^https?:\/\/[^\/]+twitter\.com/
 
+||twittbot.net
 .twittercounter.com
 ||twittercounter.com
 ||twitterfeed.com
@@ -2752,6 +2757,7 @@ lists.w3.org/archives/public
 ||want-daily.com
 ||wapedia.mobi
 ||warehouse333.com
+||wasabii.com.tw
 ||washeng.net
 .wattpad.com
 .wearn.com
@@ -2835,6 +2841,7 @@ woopie.tv
 ||workatruna.com
 .worldcat.org
 worldjournal.com
+cn.wsj.com
 
 !-------------Wordpress Blog-----
 .wordpress.com
@@ -2850,7 +2857,6 @@ worldjournal.com
 .wqyd.org
 ||wqyd.org
 ||wretch.cc
-cn.wsj.com/gb/20130215/tec113853.asp
 .wtfpeople.com
 .wuala.com
 ||wuerkaixi.com
