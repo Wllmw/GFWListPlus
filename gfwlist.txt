@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 3 Dec 2013 19:44:17 +0800
+! Last Modified: Fri, 9 Dec 2013 16:47:09 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -690,6 +690,7 @@ chinese.engadget.com
 ||farxian.com
 ||fawanghuihui.org
 ||fbcdn.net
+||fanqianghou.com
 ||fanqiangyakexi.net
 ||fail.hk
 ||famunion.com
@@ -804,6 +805,8 @@ kineox.free.fr
 .fring.com
 ||fring.com
 ||frommel.net
+.frontlinedefenders.org
+||frontlinedefenders.org
 ||fscked.org
 ||fsurf.com
 ||ftchinese.com
@@ -915,6 +918,7 @@ kineox.free.fr
 ||guancha.org
 .gun-world.net
 ||gun-world.net
+||gunsamerica.com
 ||gutteruncensored.com
 ||gvm.com.tw
 ||gyalwarinpoche.com
@@ -1267,6 +1271,8 @@ wiki.keso.cn
 .laoyang.info
 ||laoyang.info
 ||laptoplockdown.com
+.laqingdan.net
+||laqingdan.net
 ||larsgeorge.com
 ||lastfm.es
 ||latelinenews.com
@@ -1666,6 +1672,7 @@ my.opera.com/dahema
 ||panluan.net
 ||panoramio.com
 ||parade.com
+||passthepopcorn.me
 ||pastebin.com
 .pastie.org
 ||pastie.org
@@ -2757,6 +2764,7 @@ lists.w3.org/archives/public
 
 !--------------------------XX--------------------------
 www.x-berry.com/goagent
+||x-art.com
 ||x-wall.org
 ||x1949x.com
 ||x365x.com
