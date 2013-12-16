@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 9 Dec 2013 16:47:09 +0800
+! Last Modified: Fri, 16 Dec 2013 13:52:50 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -13,7 +13,7 @@
 ||rdio.com
 .spotify.com
 ||spotify.com
-/^https?:\/\/[^\/]+slacker\.com/
+||slacker.com
 ||turntable.fm
 ||vevo.com
 
@@ -49,6 +49,7 @@
 .315lz.com
 ||36rain.com
 ||4bluestones.biz
+||4chan.org
 ||5i01.com
 ||50webs.com
 ||51.ca
@@ -809,8 +810,8 @@ kineox.free.fr
 ||frontlinedefenders.org
 ||fscked.org
 ||fsurf.com
-||ftchinese.com
 .ftchinese.com
+||ftchinese.com
 .fuckcnnic.net
 ||fuckcnnic.net
 ||fuckgfw.org
@@ -899,6 +900,7 @@ kineox.free.fr
 ||gopetition.com
 ||gopetition.com
 ||gotw.ca
+hk.gradconnection.com
 ||grandtrial.org
 ||graphis.ne.jp
 ||great-roc.org
@@ -943,7 +945,6 @@ kineox.free.fr
 ||wozy.in
 
 !-------------Google.other-----
-.googlevideo.com
 ||googlevideo.com
 ||goo.gl
 ||gospelherald.com
@@ -1006,6 +1007,8 @@ kineox.free.fr
 ||pose.com
 ||rubyinstaller.org
 ||samsoff.es
+.scmpchinese.com
+||scmpchinese.com
 ||scriptspot.com
 ||sendoid.com
 ||speckleapp.com
@@ -1505,6 +1508,8 @@ zhllg.spaces.live.com
 ||nanyang.com
 .nanyangpost.com
 ||nanyangpost.com
+.nanzao.com
+||nanzao.com
 ||navicat.com
 .nakido.com
 ||nakido.com
@@ -1608,7 +1613,6 @@ zhllg.spaces.live.com
 ||omnitalk.com
 ||omy.sg
 ||the-sun.on.cc
-||theverge.com
 ||tv.on.cc
 ||onlylady.cn
 ||oopsforum.com
@@ -1937,6 +1941,7 @@ my.opera.com/dahema
 ||savetibet.org
 ||savevid.com
 ||say2.info
+||sbnation.com
 ||scribd.com
 ||seapuff.com
 ||search.com
@@ -2227,7 +2232,7 @@ my.opera.com/dahema
 ||tistory.com
 ||tkcs-collins.com
 ||tkforum.tk
-||tmagzine.com
+||tmagazine.com
 ||tmi.me
 .tnaflix.com
 ||tnaflix.com
