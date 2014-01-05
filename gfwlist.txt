@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 16 Dec 2013 13:52:50 +0800
+! Last Modified: Fri, 5 Jan 2014 19:05:10 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -145,6 +145,7 @@
 ||aol.co.uk
 ||aol.com
 ||aolnews.com
+video.ap.org
 ||apetube.com
 ||apiary.io
 ||apigee.com
@@ -552,6 +553,7 @@ delicious.com/GFWbookmark
 ||digitalnomadsproject.org
 .diigo.com
 ||diigo.com
+||directcreative.com
 ||furl.net
 .discuss.com.hk
 ||discuss.com.hk
@@ -862,6 +864,7 @@ kineox.free.fr
 ||geohot.com
 ||geometrictools.com
 ||get-digital-help.com
+||getchu.com
 ||getfoxyproxy.org
 ||getfreedur.com
 ||getjetso.com
@@ -1473,6 +1476,7 @@ zhllg.spaces.live.com
 ||mthruf.com
 ||multiply.com
 ||multiproxy.org
+||muzu.tv
 ||mymaji.com
 ||multiupload.com
 ||muouju.com
@@ -1545,6 +1549,7 @@ zhllg.spaces.live.com
 ||newsminer.com
 ||newspeak.cc
 ||newsancai.com
+||newtaiwan.com.tw
 ||newtalk.tw
 ||newyorktimes.com
 ||nextmedia.com
@@ -1802,6 +1807,7 @@ my.opera.com/dahema
 ||privacybox.de
 ||privatepaste.com
 ||privatetunnel.com
+||procopytips.com
 ||provideocoalition.com
 ||prosiben.de
 ||proxlet.com
@@ -2317,6 +2323,7 @@ my.opera.com/dahema
 ||chevronwp7.com
 ||clientsfromhell.net
 ||codeboxapp.com
+||codeshare.io
 ||cookingtothegoodlife.com
 ||cubicle17.com
 ||dailyme.com
