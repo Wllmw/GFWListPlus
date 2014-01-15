@@ -1,5 +1,5 @@
-! GFWList Plus 
-! Last Modified: Fri, 5 Jan 2014 19:05:10 +0800
+! GFWList 
+! Last Modified: Fri, 10 Jan 2014 14:28:23 +0800
 !--------------------Restricted--------------------
 ||aarki.net
 ||altrec.com
@@ -151,6 +151,7 @@ video.ap.org
 ||apigee.com
 ||apigee.com
 ||appledaily.com
+||archive.is
 ||archive.org
 .arctosia.com
 ||arctosia.com
@@ -381,6 +382,8 @@ cdn.sstatic.net
 ||change.org
 .changp.com
 ||changp.com
+.chaturbate.com
+||chaturbate.com
 .chenguangcheng.com
 ||chenguangcheng.com
 ||chenpokong.com
@@ -564,6 +567,7 @@ delicious.com/GFWbookmark
 ||djangosnippets.org
 ||dl-laby.jp
 ||dlsite.com
+||dmm.com
 ||docstoc.com
 ||dojin.com
 ||dok-forum.net
@@ -773,6 +777,7 @@ favorious.com
 ||dimitrik.free.fr
 kineox.free.fr
 ||puttycm.free.fr
+||free-gate.org
 ||freealim.com
 ||freebearblog.org
 ||freechal.com
@@ -1082,6 +1087,7 @@ research.jmsc.hku.hk/social
 ||huaglad.com
 .huanghuagang.org
 ||huanghuagang.org
+.huaren.us
 ||huaren.us
 ||huaxia-news.com
 ||huaxin.ph
@@ -1093,6 +1099,7 @@ t.huhaitai.com
 ||hutianyi.net
 ||hutong9.net
 ||hwinfo.com
+||hypeshell.com
 
 !--------------------II--------------------
 ||i1.hk
@@ -1177,6 +1184,7 @@ t.huhaitai.com
 ||isohunt.com
 ||israbox.com
 ||istef.info
+.istockphoto.com
 ||istockphoto.com
 ||isunaffairs.com
 ||isuntv.com
@@ -1416,6 +1424,7 @@ zhllg.spaces.live.com
 ||mhradio.org
 ||michaelanti.com
 ||michaelmarketl.com
+||microsofttranslator.com
 ||middle-way.net
 .mihk.hk/forum
 ||mihua.org
@@ -1559,6 +1568,7 @@ zhllg.spaces.live.com
 ||ngensis.com
 ||ngs2.info
 ||nicovideo.tw
+.nicovideo.jp
 ||nicovideo.jp
 ||nighost.org
 ||nintendium.com
@@ -1700,6 +1710,7 @@ my.opera.com/dahema
 ||pbxes.org
 ||pcdiscuss.com
 ||pcdvd.com.tw
+.pchome.com.tw
 ||pchome.com.tw
 ||pdetails.com
 ||pdproxy.com
@@ -1993,10 +2004,13 @@ my.opera.com/dahema
 ||sharpdaily.hk
 .shaunthesheep.com
 ||shaunthesheep.com
+||shellmix.com
 ||shenshou.org
 ||shenyunperformingarts.org
 ||shenzhoufilm.com
 ||shinychan.com
+||shitaotv.org
+.shitaotv.org
 ||shixiao.org
 .shizhao.org
 ||shizhao.org
@@ -2042,6 +2056,7 @@ my.opera.com/dahema
 ||sjum.cn
 ||skimtube.com
 ||skybet.com
+||skyhighpremium.com
 ||skykiwi.com
 ||slandr.net
 ||slavasoft.com
@@ -2130,6 +2145,8 @@ my.opera.com/dahema
 ||summify.com
 ||suoluo.org
 ||supertweet.net
+.surfeasy.com.au
+||surfeasy.com.au
 ||svwind.com
 ||swagbucks.com
 ||sweux.com
@@ -2198,6 +2215,7 @@ my.opera.com/dahema
 ||thelifeyoucansave.com
 ||thelius.org
 ||thepiratebay.se
+||thepiratebay.sx
 ||theqii.info
 ||thereallove.kr
 ||thesartorialist.com
