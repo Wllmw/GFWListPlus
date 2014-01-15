@@ -74,6 +74,12 @@ cdn.sstatic.net
 !--------------------ZZ--------------------
 
 !----------------Whitelist-----------------
+@@chrome.google.com
+@@clients3.google.com
+@@clients4.google.com
+@@clients2.googleusercontent.com
+@@browsersync.google.com
+@@browsersync.l.google.com
 @@nike.com
 @@nikeplus.com
 !-------------------EOF--------------------

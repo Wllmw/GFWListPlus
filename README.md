@@ -1,4 +1,4 @@
 GFWListPlus
 ===========
 
-Yet another GFWList
+A patch for GFWList
