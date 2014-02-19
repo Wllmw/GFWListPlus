@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Fri, 15 Jan 2014 23:45:10 +0800
+! Last Modified: Fri, 19 Feb 2014 19:45:10 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -24,6 +24,7 @@ cdn.sstatic.net
 ||elementaryos.org
 
 !--------------------FF--------------------
+||fastly.net
 
 !--------------------GG--------------------
 ||goo.gl
