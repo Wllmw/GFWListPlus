@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Sun, 23 Mar 2014 22:55:16 +0800
+! Last Modified: Sun, 20 Apr 2014 12:51:16 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -21,12 +21,14 @@ cdn.sstatic.net
 !--------------------DD--------------------
 
 !--------------------EE--------------------
+||efmoe.com
 ||elementaryos.org
 
 !--------------------FF--------------------
 
 !--------------------GG--------------------
 ||goo.gl
+||googleadservices.com
 
 !--------------------HH--------------------
 
@@ -42,6 +44,7 @@ cdn.sstatic.net
 !--------------------MM--------------------
 ||microsofttranslator.com
 ||minus.com
+||my1510.com
 
 !--------------------NN--------------------
 
