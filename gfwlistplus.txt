@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Sun, 20 Apr 2014 12:51:16 +0800
+! Last Modified: Sun, 20 May 2014 20:27:34 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -64,6 +64,7 @@ cdn.sstatic.net
 ||tvb.com
 
 !--------------------UU--------------------
+|http://userscripts.org/
 
 !--------------------VV--------------------
 
