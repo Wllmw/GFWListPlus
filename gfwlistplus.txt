@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Sun, 20 May 2014 20:27:34 +0800
+! Last Modified: Sun, 8 Jun 2014 23:59:06 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -23,12 +23,14 @@ cdn.sstatic.net
 !--------------------EE--------------------
 ||efmoe.com
 ||elementaryos.org
+||echocore.org
 
 !--------------------FF--------------------
 
 !--------------------GG--------------------
 ||goo.gl
 ||googleadservices.com
+||googletagservices.com
 
 !--------------------HH--------------------
 
@@ -47,6 +49,7 @@ cdn.sstatic.net
 ||my1510.com
 
 !--------------------NN--------------------
+/^https?:\/\/ntdtv\.com(?::\d+)?\//
 
 !--------------------OO--------------------
 
@@ -64,7 +67,7 @@ cdn.sstatic.net
 ||tvb.com
 
 !--------------------UU--------------------
-|http://userscripts.org/
+/^https?:\/\/userscripts\.org(?::8080)?\//
 
 !--------------------VV--------------------
 
