@@ -17,10 +17,13 @@
 
 !--------------------CC--------------------
 cdn.sstatic.net
+||chromeexperiments.com
+||chromium.org
 
 !--------------------DD--------------------
 
 !--------------------EE--------------------
+||earthengine.google.org
 ||efmoe.com
 ||elementaryos.org
 ||echocore.org
@@ -58,6 +61,7 @@ cdn.sstatic.net
 
 !--------------------PP--------------------
 ||paddle.com
+||panoramio.com
 
 !--------------------QQ--------------------
 
@@ -79,6 +83,7 @@ cdn.sstatic.net
 ||wikimedia.org
 .wikipedia.org
 ||wikipedia.org
+||withgoogle.com
 
 !--------------------XX--------------------
 
@@ -93,6 +98,7 @@ cdn.sstatic.net
 @@clients2.googleusercontent.com
 @@browsersync.google.com
 @@browsersync.l.google.com
+@@||upload.docs.google.com
 @@nike.com
 @@nikeplus.com
 !-------------------EOF--------------------
