@@ -1,10 +1,11 @@
 ! GFWList Plus 
-! Last Modified: Sat, 22 Aug 2014 23:30:48 +0800
+! Last Modified: Mon, 9 Sep 2014 18:06:34 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
 ||flipboard.com
 ||ign.com
+||paddle.com
 /^https?:\/\/[^\/]+pandora\.com/
 ||rdio.com
 .spotify.com
@@ -60,7 +61,6 @@ cdn.sstatic.net
 !--------------------OO--------------------
 
 !--------------------PP--------------------
-||paddle.com
 ||panoramio.com
 
 !--------------------QQ--------------------
@@ -88,6 +88,7 @@ cdn.sstatic.net
 !--------------------XX--------------------
 
 !--------------------YY--------------------
+||youtu.be
 
 !--------------------ZZ--------------------
 
