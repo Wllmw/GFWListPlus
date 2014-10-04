@@ -1,5 +1,5 @@
 ! GFWList Plus 
-! Last Modified: Sat, 13 Sep 2014 12:04:02 +0800
+! Last Modified: Sat, 5 Oct 2014 00:17:52 +0800
 !----------------Restricted----------------
 ||aarki.net
 ||altrec.com
@@ -42,6 +42,8 @@ cdn.sstatic.net
 !--------------------HH--------------------
 
 !--------------------II--------------------
+|instagram.com
+|*instagram.com
 
 !--------------------JJ--------------------
 
